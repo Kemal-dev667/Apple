@@ -1,0 +1,9 @@
+.lh-25{
+    line-height: 25px;
+}
+
+.bg-color{
+    background-image: linear-gradient(to bottom, #000000, #000000,
+    #000000, #000000, #000000, #121212, #1d1d1d,
+    #282828, #424242, #5e5e5e, #7c7c7c, #9b9b9b);
+}
